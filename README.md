@@ -6,13 +6,14 @@
 
 This repository is part of the recruitment test for Junior QA Engineer at IGLO. It contains basic testing tasks to assess understanding of QA fundamentals, including test case writing, bug reporting, and basic QA tools.
 
-### 📁 Project Structure
+### 📝 Manual Test Case Sheet
 
-- data/test_data.json — Test data used for form filling.
-- tests/bookTestDrive.spec.js — Automation testing script.
-- package.json — Dependency and npm script configuration.
+All manual test cases are documented in the following Google Sheet:
 
----
+👉 [**Manual Test Case Sheet**](https://docs.google.com/spreadsheets/d/11COH9piYq7WIadQh46-Uw8X3dTg9D9GFarkhvti-k8c/edit?usp=sharing)
+
+
+
 
 ### ⚙️ Prerequisites
 
